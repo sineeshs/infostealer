@@ -1,0 +1,16 @@
+# --- Core Dependencies ---
+# Handles Windows DPAPI for Chrome/Edge master key decryption
+pywin32==306
+
+# Provides AES-GCM and encryption primitives for Chromium v80+ 
+pycryptodome==3.19.0
+
+# --- Utility & UI ---
+# Used for terminal styling and colored status outputs
+colorama==0.4.6
+
+# Handles automated clipboard extraction
+pyperclip==1.8.2
+
+# Manages HTTP requests for Public IP lookups
+requests==2.31.0
