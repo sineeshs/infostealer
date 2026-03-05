@@ -1,4 +1,4 @@
-**Multi-Browser Audit & System Diagnostic Tool**
+## **Multi-Browser Audit & System Diagnostic Tool**
 
 This Python-based utility is designed for security auditing and digital forensics. It extracts saved credentials from Chromium-based browsers (Chrome, Edge), Firefox, and retrieves stored Wi-Fi profiles from the host Windows system.
 
